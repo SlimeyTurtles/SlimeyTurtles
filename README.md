@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlimeyTurtles&count_private=true)](https://github.com/SlimeyTurtles/github-readme-stats)
+[![SlimeyTurtles's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlimeyTurtles&count_private=true)](https://github.com/SlimeyTurtles/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlimeyTurtles&layout=donut)](https://github.com/SlimeyTurtles/github-readme-stats)
 
 <!--
 **SlimeyTurtles/SlimeyTurtles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
